@@ -1,0 +1,23 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "this is a zookeepr app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azariill/zookeepr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azariill/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Azariill/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
